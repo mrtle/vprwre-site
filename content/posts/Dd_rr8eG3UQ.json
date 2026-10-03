@@ -1,0 +1,45 @@
+{
+  "code": "Dd_rr8eG3UQ",
+  "slug": "asana-paid-75m-to-buy-one-year",
+  "title": "Asana paid $75M to buy one year.",
+  "section": "Deals",
+  "published": "2026-10-02T07:19:01-07:00",
+  "instagram": "https://www.instagram.com/vprwre/p/Dd_rr8eG3UQ/",
+  "slides": 12,
+  "caption": "In 18 years, Asana had never bought a company. Then its AI hit a wall.\n\nOn May 28, Asana paid about $75M in cash, plus a stock earnout, for StackAI, the Y Combinator startup founded by Tony Rosinol and Bernard Aceituno. StackAI’s agents work across a company’s other software; Asana’s AI only worked inside Asana. CEO Dan Rogers says buying it pulled the roadmap forward by more than a year.\n\nWhy pay $75M for a year? In the 2026 software sell-off, Asana’s stock fell from a $19 high to a $5.38 low, and Salesforce and ServiceNow are building the same thing.\n\nWhat we can’t verify: StackAI’s revenue isn’t public. Our rough math from Asana’s numbers puts it around $4–6M a year, roughly 12–19x revenue. The earnout’s size hasn’t been disclosed.\n\nOur take: a smart trade for both sides. StackAI turned under $20M raised into $75M plus stock, team and brand intact. Asana bought time. But a head start isn’t a lead.\n\nOn the record, Oct 2, 2026: by the end of 2027, another seat-priced work app buys an agent startup for the same reason.\n\nStartups run out of reach. Incumbents run out of time.\n\nFounders: if an offer lands this year, are you selling your product, or your time?\n\nSources and photo credits in the first comment.\n\n#startups #AIagents #acquisitions #Asana #vprwre",
+  "research": {
+    "background": [
+      "StackAI is a San Francisco company that went through Y Combinator's Winter 2023 batch. It makes a no-code platform for building AI agents that work inside a company's existing software, pulling data from systems such as Salesforce, Slack, Google Workspace, Oracle, DocuSign and AWS. Before the sale it had raised just under $20 million, including a $16 million Series A whose backers included Gradient and Vercel's chief executive, Guillermo Rauch, according to TechCrunch.",
+      "Asana announced the deal on May 28, alongside its results for the first quarter of fiscal 2027. On the earnings call, executives said the purchase added about 50 employees in engineering and AI-focused sales. They said StackAI would add about half a percentage point to revenue growth for the year and cut operating margins by about one point. Asana forecast full-year revenue of $855.5 million to $863.5 million, growth of roughly 8 to 9 percent.",
+      "The acquisition builds on Asana's existing AI products, AI Studio and AI Teammates. Reworked reported that AI Studio passed $1 million in annualized recurring revenue in its first quarter of general availability. Larger rivals, including ServiceNow, Salesforce, Microsoft and Google, are investing in the same kind of agent orchestration, and ServiceNow has made its own acquisitions, including Moveworks."
+    ],
+    "sources": [
+      {
+        "title": "Asana acquires no-code agent-builder Stack AI",
+        "publisher": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/"
+      },
+      {
+        "title": "Asana (ASAN) Q1 2027 Earnings Call Transcript",
+        "publisher": "The Motley Fool",
+        "url": "https://fool.com/earnings/call-transcripts/2026/05/28/asana-asan-q1-2027-earnings-transcript"
+      },
+      {
+        "title": "Asana Acquires StackAI for $75M to Power Cross-System AI Agent Workflows",
+        "publisher": "UC Today",
+        "url": "https://www.uctoday.com/project-management/asana-acquires-stackai-for-75m-to-power-cross-system-ai-agent-workflows/"
+      },
+      {
+        "title": "Asana Buys StackAI to Power Agent Orchestration",
+        "publisher": "Reworked",
+        "url": "https://reworked.co/digital-workplace/asana-buys-stackai-to-power-agent-orchestration/"
+      },
+      {
+        "title": "Why Asana (ASAN) Stock Is Nosediving",
+        "publisher": "Barchart",
+        "url": "https://www.barchart.com/story/news/36767900/why-asana-asan-stock-is-nosediving"
+      }
+    ],
+    "notes": "Confirmed: May 28, ~$75M cash plus undisclosed equity earnout, founders, YC, just under $20M raised, Rogers 'by over a year'. Not confirmed: first acquisition in 18 years; $19 high / $5.38 low."
+  }
+}

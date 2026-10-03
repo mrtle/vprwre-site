@@ -1,0 +1,45 @@
+{
+  "code": "DeB83ftm9KZ",
+  "slug": "did-ai-write-frances-no-1-novel",
+  "title": "Did AI write France’s No. 1 novel?",
+  "section": "Drama",
+  "published": "2026-10-03T04:27:37-07:00",
+  "instagram": "https://www.instagram.com/vprwre/p/DeB83ftm9KZ/",
+  "slides": 12,
+  "caption": "Did AI write France's No. 1 novel? A detector said yes. Then France's top literary prize dropped him.\n\nOn Sept 21, Thélyson Orélien's debut novel, C'était ça ou mourir, won the Prix du roman Fnac. That night, an X account called \"Balance ton Claude,\" with 92 followers, posted detector scores calling it \"almost entirely\" AI. The post passed 3 million views.\n\nOrélien denied it: \"I don't see why I'd turn to a machine.\" His publisher, Grasset, called it a hate campaign. Goncourt president Philippe Claudel asked \"why now?\" and pointed out the author is Black, Haitian and Canadian.\n\nThen reporters found real plagiarism in pieces he wrote in 2012–2014. On Sept 25, the Académie Goncourt pulled the novel from its list, citing plagiarism and analyses saying it is \"in all likelihood, very largely\" AI. Columnist Samuel Fitoussi has confirmed he was behind the account.\n\nThe machines don't agree. Pangram says 92–100% AI. Another tool AFP ran called it \"very likely\" human. The drafts Orélien promised still haven't been shown.\n\nReaders kept buying: 65,000 copies, and France's No. 1 novel the week it was dropped.\n\nSoftware flagged it. A jury removed it. Readers bought it.\n\nSo who gets to decide what's human?\n\nDisclosure: @vprwre drafts with Claude, Anthropic's AI. The account's name plays on \"Claude.\"\n\n#startups #vprwre #AI #books #publishing",
+  "research": {
+    "background": [
+      "The Académie Goncourt awards one of France's most prestigious literary prizes; it plans to publish its second selection on Oct. 6 and name a winner on Nov. 4. Before the dispute, Orélien's novel had also won the Prix Méduse and the Prix Première Plume and was on early lists for the Renaudot, Femina and Médicis prizes, according to Livres Hebdo. Orélien, 38, is a Canadian-Haitian writer. His debut follows a Haitian migrant's journey through Latin America to Canada.",
+      "AI detectors such as Pangram, the tool the account cited, give estimates of how likely a text is to be machine-written. They do not give definitive verdicts, as the French tech site Presse-Citron noted. Results in this case have split. AFP ran the novel through eight detectors: two rated it very probably AI-generated, three reached the opposite conclusion and three gave intermediate scores of 7 to 59 percent, NR Magazine reported. A 2023 Stanford study found that detectors flagged 61 percent of essays by non-native English writers as AI-generated, though it did not test Pangram.",
+      "His Canadian publisher, Boréal, suspended promotion on Sept. 24 and said it could not confirm the accusations. Grasset, his French publisher, has stood by him. Orélien says the book's imagery, repetition and rhythm come from Haitian and Caribbean language traditions, The Next Web reported. He has called the allegations racially motivated but has not addressed the plagiarism findings."
+    ],
+    "sources": [
+      {
+        "title": "France's Goncourt prize drops a novel over claims AI wrote it",
+        "publisher": "The Next Web",
+        "url": "https://thenextweb.com/news/goncourt-drops-orelien-novel-ai-claims"
+      },
+      {
+        "title": "L'Académie Goncourt retire Thélyson Orélien de sa sélection",
+        "publisher": "Livres Hebdo",
+        "url": "https://www.livreshebdo.fr/article/lacademie-goncourt-retire-thelyson-orelien-de-sa-selection"
+      },
+      {
+        "title": "Thélyson Orélien : la polémique bouleverse le monde du livre",
+        "publisher": "Livres Hebdo",
+        "url": "https://www.livreshebdo.fr/article/thelyson-orelien-la-polemique-bouleverse-le-monde-du-livre"
+      },
+      {
+        "title": "Goncourt 2026 : Thélyson Orélien rayé de la liste, le doute reste en rayon",
+        "publisher": "NR Magazine",
+        "url": "https://www.nrmagazine.com/?p=43353"
+      },
+      {
+        "title": "Le succès littéraire de la rentrée a-t-il vraiment été écrit par une IA ? Le débat fait rage",
+        "publisher": "Presse-Citron",
+        "url": "https://www.presse-citron.net/le-succes-litteraire-de-la-rentree-a-t-il-vraiment-ete-ecrit-par-une-ia-le-debat-fait-rage/"
+      }
+    ],
+    "notes": "Confirmed: Sept 21 Fnac prize and X post; Sept 25 Goncourt withdrawal; Fitoussi's role (with others). Plagiarism pieces dated 2012-2013, not 2014. Contradicted: AFP ran eight detectors with split results; sales ~35,000 (TNW) / 46,700+ (Livres Hebdo), not 65,000; 'hate campaign' language attributed to Boréal. Not confirmed: 92 followers, 3M views, exact quote, Claudel 'why now?' and race remarks, promised drafts, 92-100% Pangram range (Presse-Citron: 100%), No. 1 ranking."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "code": "DeBGUYeG468",
+  "slug": "he-agreed-to-slow-down-then-floored-it",
+  "title": "He agreed to slow down. Then floored it.",
+  "section": "The AI race",
+  "published": "2026-10-02T20:30:58-07:00",
+  "instagram": "https://www.instagram.com/vprwre/p/DeBGUYeG468/",
+  "slides": 12,
+  "caption": "Elon Musk agreed AI should slow down. Then he promised to win the race by spring.\n\nOn Sept 12, Anthropic CEO Dario Amodei asked AI labs to slow how fast their models gain capability. Musk replied on X: “Dario is right.” Sam Altman agreed too, four months after Musk lost his lawsuit against him.\n\nOn Sept 24, Musk posted that SpaceX will have a Fable- or GPT-6-level model within two to three months, and “pole position” in about six. He's reportedly moving a few dozen engineers off Starlink and Starship to AI. SpaceX merged with xAI in February, listed in June and bought Cursor for $60 billion.\n\nHe's done this before. In March 2023 he signed the open letter asking labs to pause for six months. In July 2023 he launched xAI.\n\nIn fairness: agreeing a risk is real isn't a promise to stop. And Musk's deadlines slip.\n\nOur take: agree in public, race in private. A speed limit freezes whoever's ahead.\n\nOn the record, Oct 2, 2026: by Dec 31, 2026, no SpaceX model tops Anthropic's best on LMArena's text leaderboard.\n\nEveryone wants a speed limit. For the car ahead.\n\nThe Take, by VPRWRE.com.\n\nDisclosure: we draft with Claude, which Anthropic makes.\n\nWhich Musk deadline do you still believe?\n\nSources and photo credits in the first comment.\n\n#AI #ElonMusk #SpaceX #xAI #vprwre",
+  "research": {
+    "background": [
+      "Amodei made his case in an essay titled \"We Must Pace the Frontier,\" a three-part plan to slow how quickly the most capable AI systems advance. The first step, which Anthropic said it would take on its own, gives independent evaluators access to check a lab's safety practices and report incidents. The other two steps depend on coordination across the industry and with governments. Altman said OpenAI would also give evaluators \"employee-like access.\" Musk's two-word reply made no commitment of that kind.",
+      "SpaceX absorbed xAI, the developer of Grok, in February and went public on June 12 in a $75 billion offering. Days later it agreed to acquire Anysphere, the company behind Cursor, for $60 billion in stock, with the deal expected to close in the third quarter. In late June, Business Insider reported, citing Musk's posts, that a few dozen senior Starlink and Starship engineers had been moved to work on Grok. In his Sept. 24 post, Musk said SpaceX's AI effort was three years old, compared with six years for Anthropic and 10 for OpenAI.",
+      "Musk was one of more than 1,100 people who signed a March 2023 open letter calling for a six-month pause on training systems more powerful than GPT-4. In May, a jury rejected his lawsuit against OpenAI and Altman, finding it had been filed too late."
+    ],
+    "sources": [
+      {
+        "title": "Musk and ChatGPT CEO back calls to 'slow down' development of AI",
+        "publisher": "ITV News",
+        "url": "https://www.itv.com/news/2026-09-12/musk-and-chatgpt-ceo-back-calls-to-slow-down-development-of-ai"
+      },
+      {
+        "title": "Musk Says SpaceX Will Take AI 'Pole Position' in Six Months If Growth Holds",
+        "publisher": "TeslaNorth",
+        "url": "https://teslanorth.com/2026/09/24/musk-spacexai-ai-pole-position/"
+      },
+      {
+        "title": "SpaceX to acquire Cursor for $60B in stock days after blockbuster IPO",
+        "publisher": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/"
+      },
+      {
+        "title": "Elon Musk Deploys SpaceX Engineers To Grok Development",
+        "publisher": "Let's Data Science",
+        "url": "https://letsdatascience.com/news/elon-musk-deploys-spacex-engineers-to-grok-development-adf1c236"
+      },
+      {
+        "title": "Elon Musk loses US lawsuit against OpenAI",
+        "publisher": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/18/elon-musk-loses-lawsuit-against-openai"
+      },
+      {
+        "title": "Elon Musk, Apple's Steve Wozniak and over 1,100 sign open letter calling for 6-month ban on creating powerful AI",
+        "publisher": "Fortune",
+        "url": "https://fortune.com/2023/03/29/elon-musk-apple-steve-wozniak-over-1100-sign-open-letter-6-month-ban-creating-powerful-ai"
+      }
+    ],
+    "notes": "Confirmed: Sept 12 call, 'Dario is right', Altman agreed, lawsuit lost May 18, Sept 24 post (pole position conditional), Feb merger, June 12 listing, $60B Cursor, 2023 letter. Nuance: Cursor deal agreed June 16, closing not confirmed ('bought' may be premature); engineer move reported late June."
+  }
+}

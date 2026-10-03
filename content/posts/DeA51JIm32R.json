@@ -1,0 +1,40 @@
+{
+  "code": "DeA51JIm32R",
+  "slug": "your-ai-butler-will-take-tips",
+  "title": "Your AI butler will take tips.",
+  "section": "Funding",
+  "published": "2026-10-02T18:41:51-07:00",
+  "instagram": "https://www.instagram.com/vprwre/p/DeA51JIm32R/",
+  "slides": 12,
+  "caption": "This spring, Instinct was reportedly worth about $50 million. On September 28\nit raised $1 billion at a $10 billion valuation.\nFounder Noah Shinn, 23, left Northeastern in 2023. He was first author of\nReflexion, an AI-agent paper presented at NeurIPS, and an early researcher at\nSierra. Sequoia, Benchmark and Coatue joined the round.\nInstinct has no app: you text or call it. It books trips, orders groceries, cancels\nsubscriptions and phones businesses. The day of the raise, it plugged into\nShopify's merchants. Invites now resell on eBay.\nThe business plan is the story. Shinn wants Instinct free for users and paid by a\ncut of what merchants sell through it, with no ads. On Invest Like the Best, he\nweighed that cut against Shopify's ~2.5%, Amazon's 10% and Apple's 30%.\nWhat we can't verify: the numbers are his. He says 35% of users shop with it,\n40% hand over a card within three weeks, and about $1 billion a year flows\nthrough it, half of it travel. No revenue, fee or margin is public. Our 3–10% math\nis an illustration, not a disclosed rate.\nThe big platforms noticed. Meta's AI chief, Alexandr Wang, has called it\n“Insect.” Meta's Muse and OpenAI's Dots launched within weeks of each other.\nOur take: the bet is sane, but an assistant paid by merchants has to show you\nwhy it picked. Disclosure is the moat.\nOn the record, Oct 2, 2026: by the end of 2027, Instinct, Meta's Muse or\nOpenAI's Dots will flag which picks earn it a commission.\nThe next storefront is whoever you let choose.\nWould you let an AI shop for you if it earned a cut?\nSources and photo credits in the first comment.\n#startups #AIagents #Instinct #venturecapital #vprwre",
+  "research": {
+    "background": [
+      "Instinct was founded in 2025 by Noah Shinn, who studied at Northeastern University, did research at MIT and left school in 2023. He was the first author of Reflexion, a NeurIPS paper on AI agents that improve themselves, and later worked as a research scientist at Sierra, the AI customer-service company led by Bret Taylor.",
+      "The company's valuation rose unusually fast. Instinct was valued at about $50 million in the spring, raised $75 million at roughly $500 million in early August, then raised $250 million at $2.5 billion in late August, the same month it opened to users by invitation. The September 28 round, which included Sequoia Capital, Benchmark and Coatue, brought its total funding to more than $1.3 billion. Earlier backers include Kleiner Perkins, Index Ventures, Conviction and Greenoaks. According to published reports, Instinct had 14 employees and more than 100,000 users at the time of the raise, was free to use and had not disclosed a revenue model.",
+      "Instinct is not alone in the field. Meta launched its own assistant, Muse, on September 8 with partners including Shopify, PayPal, Instacart and Expedia, and OpenAI has been reported to be preparing a similar product."
+    ],
+    "sources": [
+      {
+        "title": "AI agent firm Instinct raises $1 billion in latest funding round",
+        "publisher": "Reuters (via KSL.com)",
+        "url": "https://www.ksl.com/article/51629454/ai-agent-firm-instinct-raises-1-billion-in-latest-funding-round"
+      },
+      {
+        "title": "AI Agent Startup Instinct Is Now Worth $10 Billion With Just 14 Employees",
+        "publisher": "OfficeChai",
+        "url": "https://officechai.com/ai/ai-agent-startup-instinct-is-now-worth-10-billion-with-just-14-employees/"
+      },
+      {
+        "title": "Instinct in talks to raise $1B at $10B valuation, quadrupling in under a month",
+        "publisher": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/instinct-raises-1b-10b-valuation/"
+      },
+      {
+        "title": "Instinct raises $1B Series C at $10B for personal AI agent",
+        "publisher": "AI Weekly",
+        "url": "https://aiweekly.co/alerts/instinct-raises-1b-series-c-at-10b-for-personal-ai-agent"
+      }
+    ],
+    "notes": "Confirmed: $1B at $10B Sept 28; Sequoia/Benchmark/Coatue; Shinn age 23, left Northeastern 2023, Reflexion, Sierra; ~$50M spring valuation. Not confirmed: Shopify hookup on raise day (sources tie Shopify to Meta's Muse), eBay invites, Invest Like the Best remarks, usage figures, Wang 'Insect' remark, OpenAI 'Dots' launch."
+  }
+}

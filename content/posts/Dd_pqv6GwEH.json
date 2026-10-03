@@ -1,0 +1,40 @@
+{
+  "code": "Dd_pqv6GwEH",
+  "slug": "ai-is-grading-you",
+  "title": "AI is grading you.",
+  "section": "AI tools",
+  "published": "2026-10-02T07:01:23-07:00",
+  "instagram": "https://www.instagram.com/vprwre/p/Dd_pqv6GwEH/",
+  "slides": 9,
+  "caption": "Jev can’t write a single word. It might still decide who sees yours.\nOn Sept 15, TypeSafe AI, led by ex-OpenAI researcher Diogo Almeida and backed by\na $40M seed led by DCVC, launched Jev: a model that answers yes/no, pick-one or\nrate-it questions about text, each with a probability. It costs $0.042 per million input\ntokens. Within 16 days its launch post had about 40 million views, an independent\ncatalog listed 620 things built with it, and OpenAI and Amazon had each launched a\nrival.\nBuilders report sorting 20,700 YouTube comments for 20 cents and studying 100,000\nviral posts for 67 cents. One tool screens Instagram creators for brand safety at $4 per\n1,000 profiles.\nTwo flags before our take. Jev is weeks old, and most of these figures are builders’\nown reports, not independent tests. The feed filters and the screener have almost no\nusers yet.\nOur take: Jev won’t replace creators. It can’t make anything. It makes judging cheap,\nand judging is how platforms are answering the flood of AI content. Look-alike work\ngets filtered first: faceless, templated video, then formula text posts. Your face, your\nvoice and first-hand experience get a tailwind. And no, it doesn’t predict virality or\ndetect AI writing.\nIf your work could have come from anyone, a filter will treat it that way.\nSo what part of your work could only have come from you?\n#Jev #TypeSafeAI #CreatorEconomy #Startups #vprwre",
+  "research": {
+    "background": [
+      "TypeSafe AI was co-founded by Diogo Almeida, a former OpenAI researcher who co-authored the InstructGPT work behind ChatGPT's training method, along with Erik Gafni and Sasha Sheng. The company spent about two years in stealth before it introduced Jev in mid-September, together with a $40 million seed round led by DCVC. The German tech site Trending Topics reported that the round valued the company at about $200 million.",
+      "Jev does not generate text the way a chatbot does. It picks from a list of options, places an input on a scale, or judges a yes-or-no statement, and it attaches a probability to each answer. It is built to run inside other software rather than to talk to users. TypeSafe says Jev responds in about 70 to 500 milliseconds and was trained only on synthetic data, and it does not charge for output tokens. The speed and cost figures come from the company. Early uses developers have described include routing support tickets, choosing tools for AI agents and sorting email. Access is through a waitlisted early-access API, which went down under heavy demand after the launch.",
+      "Bigger companies moved quickly. On Sept. 29, at its DevDay event, OpenAI announced a Decisions API that chooses among options a developer defines and returns a confidence score. Coverage described it as OpenAI's answer to Jev. OpenAI has not published a price for it."
+    ],
+    "sources": [
+      {
+        "title": "Introducing Jev, Ex-OpenAI researchers build a new kind of AI Model",
+        "publisher": "YourStory",
+        "url": "https://yourstory.com/ai-story/what-is-jev-typesafe-ai-decision-model"
+      },
+      {
+        "title": "TypeSafe AI Releases: Jev",
+        "publisher": "ThursdAI",
+        "url": "https://thursdai.news/companies/typesafe-ai"
+      },
+      {
+        "title": "Jev: Warum dieses neuartige KI-Modell gerade Entwickler:innen begeistert",
+        "publisher": "Trending Topics",
+        "url": "https://www.trendingtopics.eu/jev-warum-dieses-neuartige-ki-modell-gerade-entwickerinnen-begeistert/"
+      },
+      {
+        "title": "OpenAI Decisions API",
+        "publisher": "AI/TLDR",
+        "url": "https://ai-tldr.dev/releases/openai-decisions-api/"
+      }
+    ],
+    "notes": "Confirmed: Almeida ex-OpenAI, $40M seed led by DCVC, $0.042/M input tokens, OpenAI rival (Decisions API, Sept 29). Launch date Sept 15 (YourStory) vs Sept 17 (ThursdAI). Not confirmed: Amazon rival, ~40M views, 620-project catalog, builders' cost figures."
+  }
+}

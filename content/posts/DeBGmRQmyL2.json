@@ -1,0 +1,50 @@
+{
+  "code": "DeBGmRQmyL2",
+  "slug": "behind-in-ai-zuck-goes-for-your-keychain",
+  "title": "Behind in AI, Zuck goes for your keychain.",
+  "section": "The AI race",
+  "published": "2026-10-02T20:33:25-07:00",
+  "instagram": "https://www.instagram.com/vprwre/p/DeBGmRQmyL2/",
+  "slides": 12,
+  "caption": "Mark Zuckerberg won't slow down for anyone. Then he put Meta's AI on your keychain.\n\nOn Sept 12, Anthropic CEO Dario Amodei asked AI labs to slow down; Sam Altman and Elon Musk agreed. On Sept 15, Zuckerberg said no: every lab should set its own safe pace. His proof is that Meta already delayed its Muse agent by months for safety. “We didn't call for everyone else to do this before we would.”\n\nOn Sept 24 at Meta Connect, his “one more thing” was the Muse Charm, a Tamagotchi-like keychain you tap to talk to Muse. No price yet. It's due for the holidays.\n\nContext: Meta paid $14.3B for 49% of Scale AI last June to bring in Alexandr Wang to run Superintelligence Labs. The New York Times reported in September that Meta still trails Anthropic and OpenAI, with a bigger model, “Watermelon,” weeks out.\n\nIn fairness: nobody has bought one yet, and pocket AI gadgets have flopped before.\n\nOur take: Meta is racing for your pocket, not the podium. It doesn't need the smartest model, just the closest one.\n\nOn the record, Oct 2, 2026: by Dec 31, 2027, Meta announces 10 million Muse Charms sold.\n\nThe smartest AI wins benchmarks. The closest wins people.\n\nThe Take, by VPRWRE.com.\n\nDisclosure: we draft with Claude, which Anthropic makes.\n\nWould you clip an AI to your keys?\n\nSources and photo credits in the first comment.\n\n#AI #Meta #MarkZuckerberg #MuseCharm #vprwre",
+  "research": {
+    "background": [
+      "Meta's push into frontier AI is run by Meta Superintelligence Labs, which Alexandr Wang leads. Meta brought him in through a $14.3 billion investment for a 49 percent stake in Scale AI, the company he ran, in June 2025. In April, the lab released a model called Muse Spark that did well on standard benchmarks but was not presented as a frontier system. In July, Business Insider reported that Mr. Wang told staff its successor, code-named Watermelon, had matched OpenAI's GPT-5.5. By then OpenAI had already released GPT-5.6.",
+      "Muse, the agent Meta released on Sept. 8, takes actions for users, such as booking flights or sending emails. Meta says it has been downloaded more than 2.5 million times. It has also drawn privacy complaints, and Decrypt reported that Amazon blocked it from shopping on its site.",
+      "The Muse Charm, unveiled at the end of the Sept. 23 Connect keynote, is a puck about the size of a Tamagotchi. It has a screen of roughly two inches, front and rear cameras, and its own 5G connection. Users tap a fingerprint sensor to make it listen. Meta has not announced a price and is aiming for a December release."
+    ],
+    "sources": [
+      {
+        "title": "Zuckerberg distances Meta from calls for a coordinated approach on an AI slowdown",
+        "publisher": "Local 10 (WPLG)",
+        "url": "https://www.local10.com/business/2026/09/16/zuckerberg-distances-meta-from-calls-for-a-coordinated-approach-on-an-ai-slowdown/"
+      },
+      {
+        "title": "Zuckerberg Pushes Back on Coordinated AI Slowdown, Says Labs Can Act Alone",
+        "publisher": "Decrypt",
+        "url": "https://decrypt.co/378381/zuckerberg-pushes-back-ai-slowdown"
+      },
+      {
+        "title": "Mark Zuckerberg's 'One More Thing' Was an AI Keychain?!",
+        "publisher": "Gizmodo",
+        "url": "https://gizmodo.com/meta-muse-charm-ai-keychain-2000816515"
+      },
+      {
+        "title": "Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks",
+        "publisher": "Decrypt",
+        "url": "https://decrypt.co/379253/meta-ai-toy-muse-charm-keychain-watches-listens"
+      },
+      {
+        "title": "Meta's Upcoming 'Watermelon' AI Model Draws Even with OpenAI's GPT-5.5: Report",
+        "publisher": "Techstrong.ai",
+        "url": "https://techstrong.ai/articles/metas-upcoming-watermelon-ai-model-draws-even-with-openais-gpt-5-5-report/"
+      },
+      {
+        "title": "Meta Bets $14.3 Billion on Scale AI—and Its CEO—to Lead New Superintelligence Lab",
+        "publisher": "Maginative",
+        "url": "https://www.maginative.com/article/meta-bets-14-3-billion-on-scale-ai-and-its-ceo-to-lead-new-superintelligence-lab/"
+      }
+    ],
+    "notes": "Confirmed: Sept 15 post, quote, delay, Muse Charm 'one more thing', no price, holiday target, $14.3B for 49%. Contradicted: Connect keynote Sept 23 (not 24); Scale deal June 2025 ('last June' is wrong). Not confirmed: Sept 12 date; NYT report (Business Insider reported Watermelon in July); 'weeks out'."
+  }
+}

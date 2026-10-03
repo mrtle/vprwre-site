@@ -1,0 +1,45 @@
+{
+  "code": "DeA7AdeG7UQ",
+  "slug": "he-backs-both-he-went-after-one",
+  "title": "He backs both. He went after one.",
+  "section": "Drama",
+  "published": "2026-10-02T18:52:08-07:00",
+  "instagram": "https://www.instagram.com/vprwre/p/DeA7AdeG7UQ/",
+  "slides": 13,
+  "caption": "A founder fired his advisor on X. Then his own investor accused him of lying about it.\n\nOn Sept 30 at 9:33 AM PT, Factory CEO Matan Grinberg posted that he was terminating Chris Degnan, his board observer and adviser, for “unethical conduct involving Cognition.” He wrote that Degnan’s Cognition talks were “formal and recurring” while he sat in board meetings, and that Cognition engineers “feigned interviews” to pry for product details.\n\n52 minutes later, Degnan announced he’s Cognition’s new chief revenue officer. Cognition CEO Scott Wu called the allegations “not true.” Degnan said he resigned Monday, that Grinberg asked him to consider a full-time role, and that his last Factory board meeting came weeks before he ever spoke to Cognition.\n\nThen the investors weighed in. Vinod Khosla, whose firm backs both companies, called Factory “a struggling second tier competitor.” Sequoia’s Shaun Maguire, a Factory backer, replied “Vinod your facts are wrong.” Keith Rabois, who joined Factory’s board for Khosla Ventures, said Khosla “isn’t aware of the facts.”\n\nStill unverified: whether any confidential information changed hands, whether Degnan was fired or resigned first, and the emails Grinberg says he has but hasn’t posted.\n\nThe founder, the adviser or the investor: who’s right?\n\nSources and photo credits in the first comment.\n\n#startups #venturecapital #AIagents #FactoryAI #vprwre",
+  "research": {
+    "background": [
+      "Factory builds AI coding agents, and Cognition, the maker of the coding agent Devin, competes in the same market; Grinberg described Cognition as Factory's largest competitor. Both companies raised money in September. Factory raised $200 million at a $5 billion valuation, and Cognition was valued at $48 billion, according to Forbes and The Next Web.",
+      "Degnan was Snowflake's first sales hire and later its chief revenue officer. Benzinga reported that he began advising Factory in November 2025. Paul Grewal, Cognition's chief legal officer, denied that the company sought Factory's confidential information and said it hired Degnan for his sales expertise, according to a Bloomberg report cited by The Next Web. Degnan wrote that Cognition \"has never asked about information on Factory, nor would I ever give it.\"",
+      "The dispute drew unusual attention because Khosla Ventures has stakes in both companies. Forbes reported that the firm led Factory's Series C round in April and its latest round, and was an early investor in Cognition. Khosla also accused Grinberg of \"straight out lying\" about whether Degnan was fired. Rabois, a Khosla Ventures partner, wrote that it is \"unethical per se to even interview at a competitor while attending Board meetings,\" according to accounts of the posts compiled by Dealroom."
+    ],
+    "sources": [
+      {
+        "title": "Vinod Khosla Openly Trashes His Own AI Portfolio Startup As 'Struggling Second Tier Competitor'",
+        "publisher": "Forbes",
+        "url": "https://www.forbes.com/sites/maryroeloffs/2026/10/01/vinod-khosla-openly-trashes-his-own-ai-portfolio-startup-as-struggling-second-tier-competitor/"
+      },
+      {
+        "title": "Factory and Cognition bosses clash over adviser's exit, Bloomberg reports",
+        "publisher": "The Next Web",
+        "url": "https://thenextweb.com/news/factory-cognition-ceos-feud-degnan"
+      },
+      {
+        "title": "Factory Fires Advisor, Accuses Cognition Of Seeking Product Information",
+        "publisher": "Benzinga",
+        "url": "https://www.benzinga.com/markets/private-markets/26/09/62093214/factory-fires-advisor-accuses-cognition-of-seeking-product-information"
+      },
+      {
+        "title": "Factory CEO accuses Cognition's new CRO of sharing confidential information",
+        "publisher": "RuntimeWire",
+        "url": "https://runtimewire.com/article/factory-cognition-degnan-board-confidentiality-dispute"
+      },
+      {
+        "title": "Factory and Cognition clash publicly over adviser Chris Degnan's move to Cognition",
+        "publisher": "Dealroom",
+        "url": "https://dealroom.co/news/158263-factory-and-cognition-clash-publicly-over-adviser-chris-degnans-move-to/"
+      }
+    ],
+    "notes": "Confirmed: Sept 30 post and quotes, Degnan named CRO same day, resigned Monday, Khosla quote, Khosla backs both. Not confirmed: 9:33 AM / 52-minute gap, Wu 'not true' (quoted as 'no interest in Factory's information'), Maguire 'Vinod your facts are wrong', Rabois 'isn't aware of the facts' and board seat, full-time role offer. Valuations differ by source."
+  }
+}
