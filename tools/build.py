@@ -278,7 +278,7 @@ def build():
     nf += masthead() + '<main id="main" class="notfound"><h2>That page isn’t here.</h2><p><a href="/">Go to the front page</a> to see the latest stories.</p></main>' + FOOTER
     (ROOT / "404.html").write_text(nf)
     (ROOT / "posts.json").write_text(json.dumps([
-        {"code": s["code"], "title": s["title"], "url": f"https://vprwre.com/p/{s['slug']}/",
+        {"code": s["code"], "title": s["title"], "section": s["section"], "url": f"https://vprwre.com/p/{s['slug']}/",
          "instagram": s["instagram"], "published": s["dt"].isoformat()} for s in stories], indent=2))
     (ROOT / "CNAME").write_text("vprwre.com\n")
     (ROOT / ".nojekyll").write_text("")

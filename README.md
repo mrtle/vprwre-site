@@ -18,7 +18,8 @@ Static site, served by GitHub Pages from the repository root (custom domain in `
 1. **Scrape** in Chrome on the always-on Mac (Instagram works signed out):
    for each new post, open `https://www.instagram.com/vprwre/p/<code>/` and run `tools/scrape-post.js`
    with the Claude in Chrome JavaScript tool. It stores the slides and caption in that tab's IndexedDB.
-2. **Package**: in the same tab, run `tools/zip-download.js` with two lines prepended:
+2. **Package**: in the same tab, run `tools/zip-download.js` with two lines prepended
+   (one download per tab: Chrome blocks a second automatic download from the same tab, so open a fresh tab if you need another):
    `const CODES = [...]; const FILENAME = "vprwre-new-YYYY-MM-DD.zip";`
    Chrome saves the zip to the Mac's Downloads folder.
 3. **Bring it over** with the device file tools, unzip, then for each post:
