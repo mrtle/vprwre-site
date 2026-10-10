@@ -23,8 +23,8 @@ Static site, served by GitHub Pages from the repository root (custom domain in `
    `const CODES = [...]; const FILENAME = "vprwre-new-YYYY-MM-DD.zip";`
    Chrome saves the zip to the Mac's Downloads folder.
 3. **Bring it over** with the device file tools, unzip, then for each post:
-   `python3 tools/add_post.py --src <unzipped>/vprwre/<code> --title "<cover headline>" --section "<section>" --research research.json`
+   `python3 tools/add_post.py --src <unzipped>/vprwre/<code> --title "<cover headline>" --section "<section>"`
    - `--title`: the headline exactly as printed on the cover card (slide-01).
    - `--section`: reuse one of AI tools, Deals, Funding, Drama, The AI race when it fits.
-   - `research.json`: `{"background": ["2-3 short paragraphs"], "sources": [{"title","publisher","url"}], "notes": "fact-check notes"}`
+   - Use only what is in the Instagram carousel itself (slides + caption). No web research, no `--research` file.
 4. `python3 tools/build.py`, check the output, commit and push. Pages redeploys in about a minute.
