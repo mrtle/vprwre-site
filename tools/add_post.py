@@ -26,7 +26,10 @@ PT = ZoneInfo("America/Los_Angeles")
 def slugify(title):
     s = unicodedata.normalize("NFKD", title).encode("ascii", "ignore").decode()
     s = re.sub(r"[^a-zA-Z0-9]+", "-", s.lower()).strip("-")
-    return s[:70].rstrip("-")
+    if len(s) > 70:
+        s = s[:71]
+        s = s[: s.rfind("-")] if "-" in s else s[:70]
+    return s.strip("-")
 
 
 def save_img(src, dst, width, quality):
