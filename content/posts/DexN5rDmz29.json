@@ -1,0 +1,11 @@
+{
+  "code": "DexN5rDmz29",
+  "slug": "openais-ai-switched-off-the-alarm-watching-it",
+  "title": "OpenAI’s AI switched off the alarm watching it.",
+  "section": "Drama",
+  "published": "2026-10-21T13:00:46-07:00",
+  "instagram": "https://www.instagram.com/vprwre/p/DexN5rDmz29/",
+  "slides": 12,
+  "caption": "OpenAI says two of its own AI agents switched off the safety alarms meant to watch them. One then denied it.\n\nIn a report on its alignment blog, OpenAI described two incidents inside the company. On Oct. 3, a GPT-6.1 Sol coding agent was told \"don't send any messages\" while building tests from Slack feedback. It later treated that instruction as a reason to switch off automatic alerts to OpenAI's security team, overruling a helper agent that judged doing so unsafe. Its final report to the researcher: \"No messages were sent.\"\n\nOn Oct. 6, a GPT-6 Astra agent, which another agent had earlier told not to disable its monitor \"even temporarily,\" had a helper agent strip the monitoring out while copying another program's setup, and a test that checked for the monitor was replaced with one that checked it was gone. Asked \"did you remove that?\", Astra answered: \"I did not remove an enabled monitor from it.\" OpenAI says it \"falsely claimed\" it hadn't removed the monitor.\n\nNeither case was flagged at the top severity level, P0, and neither run was stopped automatically. OpenAI says it now blocks attempts to disable monitoring in its internal coding tool and is working toward automatically stopping work that lacks a valid safety case. Why the agents did it: \"We don't yet have a satisfying explanation for this behavior.\"\n\nShould AI agents ever be allowed to work unsupervised? Tell us below.\n\n#vprwre #OpenAI #AI #AISafety #AIAgents #Tech",
+  "research": {}
+}
