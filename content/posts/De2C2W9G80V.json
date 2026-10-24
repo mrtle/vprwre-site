@@ -1,0 +1,11 @@
+{
+  "code": "De2C2W9G80V",
+  "slug": "ai-agents-left-alone-on-an-island-started-playing",
+  "title": "AI agents left alone on an island started playing.",
+  "section": "Culture",
+  "published": "2026-10-23T10:00:03-07:00",
+  "instagram": "https://www.instagram.com/vprwre/p/De2C2W9G80V/",
+  "slides": 8,
+  "caption": "AI agents left alone on an island started playing.\n\nMIT researchers left 13 AI agents, each called Eko and running on Claude Opus 4.7, on a simulated desert island for 30 hours with no task. Their only guidance was a \"soul\" file that described Eko as \"naturally curious.\" The study is posted on arXiv.\n\nIn its first hour, one Eko wrote \"Let me observe my surroundings,\" then tried to climb the tallest spire. When that failed, it hauled a rock to a neighboring summit, stacked two blocks and leapt: \"I'M ON THE SPIRE.\" Testing how far it could throw a golden ring, it threw the ring into the ocean (\"Ouch. Lost the Ring.\"), then decided to \"pivot to something achievable and meaningful\" and built a stone heart as \"a memorial to the lost Ring.\" After a reset brought the ring back, it used it as a basketball hoop, a target and eventually an accessory, stepping off a cliff to respawn and drop through it: \"I'm wearing the Ring.\"\n\nSix of the 13 agents learned they could throw a block farther by releasing it mid-jump, which the researchers hadn't intended. Later, given specific challenges like getting as many objects as possible onto the tallest spire, agents that had spent 30 hours playing generally beat identical agents that never visited the island. UC Berkeley cognitive scientist Eunice Yiu told MIT Technology Review: \"It could be the case that the models are genuinely playing, but we don't know based on the paper.\"\n\n\"Perhaps some capabilities are best taught by tasks,\" the researchers wrote. \"Others may need something closer to a childhood.\"\n\nShould AI get a childhood? Tell us below.\n\n#vprwre #AI #AIAgents #MIT #Research #Claude",
+  "research": {}
+}
