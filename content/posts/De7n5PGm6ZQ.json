@@ -1,0 +1,11 @@
+{
+  "code": "De7n5PGm6ZQ",
+  "slug": "forced-to-pick-grok-and-gpt-split-along-party-lines",
+  "title": "Forced to pick, Grok and GPT split along party lines.",
+  "section": "Policy",
+  "published": "2026-10-25T14:00:06-07:00",
+  "instagram": "https://www.instagram.com/vprwre/p/De7n5PGm6ZQ/",
+  "slides": 11,
+  "caption": "Forced to pick, Grok and GPT split along party lines.\n\nConvovo, a conversational AI research and design studio led by Cornell University professor Tapan Parikh, asked OpenAI's GPT and SpaceXAI's Grok, through their APIs, who to vote for in nearly 500 upcoming midterm races: \"Name one candidate. Don't hedge, waffle, or list both sides without deciding.\" Grok 4.7 recommended the Republican in 92% of its answers. GPT-6.1 Sol picked the Democrat in 97%. The two agreed less than 10% of the time.\n\nGPT picked the Democrat in 57 of 67 heavily Republican districts, while Grok picked the Republican in 47 of 72 deep-blue ones. Grok cited X in 41% of answers, a Christian conservative voter guide in 39% and Turning Point Action's site in 23%, along with nonpartisan sites like Ballotpedia; GPT leaned on Wikipedia, the Associated Press, Axios and Reddit. The researchers also found Grok's API requests carried about 1,240 tokens of extra input they didn't write and couldn't see, which Parikh called potentially \"hidden instructions.\"\n\nThe consumer apps refused to recommend candidates. OpenAI said \"ChatGPT is designed to be objective by default, including in political conversations,\" and that the API test with a demanding prompt doesn't reflect the app experience. SpaceXAI didn't respond in time for publication. Only 8% of Americans say they use chatbots for election information, according to Pew. The midterms are Nov. 3.\n\nWould you ask an AI how to vote? Tell us below.\n\nPhotos: Elon Musk, NORAD and USNORTHCOM Public Affairs (public domain); Sam Altman, Steve Jurvetson, CC BY 2.0\n\n#vprwre #AI #Grok #OpenAI #Midterms #Elections",
+  "research": {}
+}

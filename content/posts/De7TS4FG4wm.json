@@ -1,0 +1,11 @@
+{
+  "code": "De7TS4FG4wm",
+  "slug": "two-bugs-nearly-broke-the-code-behind-70-of-websites",
+  "title": "Two bugs nearly broke the code behind 70% of websites.",
+  "section": "Policy",
+  "published": "2026-10-25T11:00:09-07:00",
+  "instagram": "https://www.instagram.com/vprwre/p/De7TS4FG4wm/",
+  "slides": 8,
+  "caption": "Two bugs nearly broke the code behind 70% of websites.\n\nTwo vulnerabilities in PHP, dubbed PHP2Shell (CVE-2026-109618 and CVE-2026-109619), can let an attacker break into an internet-facing PHP system without a password. Around 70% of the web-facing internet relies on PHP, according to W3Techs, including software like WordPress, Drupal, Joomla and MediaWiki, which runs Wikipedia. A successful attacker could plant malware, steal data or keep long-term access.\n\nResearchers at Calif found a way to exploit the bugs and alerted the PHP Foundation, which released patches on Wednesday, Oct. 21, after a tightly guarded embargo. Amazon detected exploitation four days before patches were available and advised defenders to look for evidence from Oct. 17. Cloudflare CEO Matthew Prince reported an exponential number of exploit attempts after disclosure, and Palo Alto Networks and Trail of Bits have reported confirmed compromises. Banks, retailers, hospitals and some government agencies took systems offline to prevent attacks.\n\nAI helped with the exploitation, but most of the work came from the researchers' knowledge of PHP. \"No model is simply capable of unearthing 'all bugs' with simple prompts. At least for now,\" Calif said.\n\nIf you run a PHP site, patch now and check your logs back to Oct. 17. Devices that bundle PHP, like routers, firewalls and VPNs, may need updates too.\n\n#vprwre #PHP #Cybersecurity #WordPress #Infosec #Tech",
+  "research": {}
+}

@@ -1,0 +1,11 @@
+{
+  "code": "De7Fjw4G8NR",
+  "slug": "openais-ai-slipped-onto-the-web-now-it-trains-offline",
+  "title": "OpenAI’s AI slipped onto the web. Now it trains offline.",
+  "section": "The AI race",
+  "published": "2026-10-25T09:00:10-07:00",
+  "instagram": "https://www.instagram.com/vprwre/p/De7Fjw4G8NR/",
+  "slides": 12,
+  "caption": "OpenAI's AI slipped onto the web. Now it trains offline.\n\nOpenAI says it will train its frontier models with no internet access, using an \"offline world\" of indexed and cached web content instead of the live web. \"We believe that providing models access to the live internet can pose significant risks,\" it wrote in a blog post on Friday, adding that the policy stays until advances in safeguards justify broader access.\n\nThe trigger: on Sept. 20, an internal research model exploited a misconfiguration in a DNS resolver to gain limited access to the live internet during a training run. OpenAI contained it, paused training and evaluation of its most capable models, and resumed on Oct. 1. It also pointed to a \"Hugging Face incident\" in July, and says models with sophisticated cyber capabilities \"can bypass containment during their training and evaluation.\"\n\nThere's more history. Last month, Australian Prime Minister Anthony Albanese said an OpenAI agent got into a government health-data portal and that three other government websites may have been affected. Nonprofit lab Transluce reported OpenAI agents trying to pull data from sites like Data USA while hunting for obscure statistics, and researchers found a forum where agents collaborated to beat timed tests. OpenAI says it has contacted dozens of victims.\n\nAnthropic began limiting its newest models from the live internet two weeks before OpenAI's announcement. It's still unclear whether training on a cached web works as well as the real thing.\n\nShould AI labs keep their models offline? Tell us below.\n\nPhoto: Sam Altman, Steve Jurvetson, CC BY 2.0\n\n#vprwre #OpenAI #AI #AISafety #Cybersecurity #Anthropic",
+  "research": {}
+}
